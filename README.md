@@ -18,7 +18,8 @@
 ## 📁 部署平台  
 - PythonAnywhere
 
-## 📷 畫面範例（可補圖）
+## 📷 畫面範例
+![image](https://github.com/user-attachments/assets/52c3a5c2-c096-4fc4-8c3c-520412c56bd8)
 
 ## 📜 開發者  
 AderEoder
